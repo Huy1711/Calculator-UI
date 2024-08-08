@@ -1,6 +1,10 @@
 # Calculator-UI
 A Calculator app powered by Streamlit
 
+## Interface
+
+![interface](docs/interface.png)
+
 ## How to run
 
 1. Install packages
